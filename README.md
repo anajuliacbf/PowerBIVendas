@@ -1,1 +1,1 @@
-# PowerBIVendas
+Elaborei um Dashboard no Power BI utilizando dados e resultados de uma empresa fictícia. O processo iniciou-se com a extração e transformação dos dados da tabela Excel, realizando a limpeza e organização necessária para garantir a estruturação adequada das informações. Posteriormente, desenvolvi o Dashboard, incorporando as visualizações e métricas necessárias.
